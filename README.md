@@ -41,7 +41,7 @@ The dashboard provides a quick overview of:
 ---
 
 ## Screenshots
-![Register](screenshots/Register.png)
-![Tasks](screenshots/Tasks.png)
-![Dahboard](screenshots/Dahboard.png)
-![Profile](screenshots/Profile.png)
+![register](screenshots/register.png)
+![tasks](screenshots/tasks.png)
+![dashboard](screenshots/dashboard.png)
+![profile](screenshots/profile.png)
