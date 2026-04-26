@@ -41,7 +41,7 @@ The dashboard provides a quick overview of:
 ---
 
 ## Screenshots
-!(screenshots/image.png)
-!(screenshots/image copy.png)
-!(screenshots/image copy 2.png)
-!(screenshots/image copy 3.png)
+![Register](screenshots/image.png)
+![Tasks](screenshots/image copy.png)
+![Dahboard](screenshots/image copy 2.png)
+![Profile](screenshots/image copy 3.png)
